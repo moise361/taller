@@ -1,0 +1,59 @@
+body{
+    font-family: 'Lato', sans-serif;
+    font-size: 1.3rem;
+    line-height: 1.5;
+}
+.contenedor-header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-position: center center;
+    padding: 4rem;
+}
+.recuadro{
+    color: black;
+    background: yellow;
+    widows: 1rem;
+    padding: 2rem; 
+    text-align: center;   
+    line-height: 1rem;
+}
+.recuadro1{
+    color: black;
+    background: blue;
+    widows: 1rem;
+    padding: 2rem; 
+    text-align: center;   
+    line-height: 1rem;
+}
+.recuadro2{
+    color: black;
+    background: red;
+    widows: 1rem;
+    padding: 2rem; 
+    text-align: center;   
+    line-height: 1rem;
+}
+.recuadro3{
+    color: black;
+    background: yellow;
+    widows: 1rem;
+    padding: 2rem; 
+    text-align: center;   
+    line-height: 1rem;
+}
+.recuadro4{
+    color: black;
+    background: red;
+    widows: 1rem;
+    padding: 2rem; 
+    text-align: center;   
+    line-height: 1rem;
+}
+.recuadro2{
+    color: black;
+    background: rebeccapurple;
+    widows: 1rem;
+    padding: 2rem; 
+    text-align: center;   
+    line-height: 1rem;
